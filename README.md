@@ -1,3 +1,3 @@
-# NFT - Mobile APP
+# NFT - Mobile App
 
 `Technologi : Expo, JavaScript, React Native`
